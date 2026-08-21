@@ -4,11 +4,11 @@
     <title>Redfin</title>
     <item>
       <title>Version 1.0</title>
-      <pubDate>Fri, 21 Aug 2026 07:17:47 +0000</pubDate>
-      <sparkle:version>2</sparkle:version>
+      <pubDate>Fri, 21 Aug 2026 07:40:47 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/kodydeda4/redfin-releases/releases/download/v1.0.2/Redfin.zip" sparkle:edSignature="T5AaKbA4eYSdp+qtUfuLar+Dt+Oqoo1OWue98dO+p/cU1Lc+WQWMw5b6/4h1weSxIFWnGQ1rtGwIIWLdtGRtAw==" length="8437970" type="application/octet-stream"/>
+      <enclosure url="https://github.com/kodydeda4/redfin-releases/releases/download/v1.0.3/Redfin.zip" sparkle:edSignature="sjvgddqt0Y8fDBNQLRDj8n/Fr0vAxAqd5kweL7Q82de2gmC9rLJWzS/8sigIVEG+psZPKSUKNlMCQnM4HaecDQ==" length="8438057" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
